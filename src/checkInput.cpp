@@ -9,6 +9,7 @@ int validateInput(string inp)
 	int count_dot = 0;
 	int i=0;
 	if(inp[0]=='-')
+		
 		i++;
 	for(;i<len;i++)
 	{
