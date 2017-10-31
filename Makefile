@@ -25,3 +25,4 @@ getNum.o: src/getNum.cpp /include/Exp.h
 	g++ -c src/getNum.cpp
 clean:
 	rm -f bin/*
+	
