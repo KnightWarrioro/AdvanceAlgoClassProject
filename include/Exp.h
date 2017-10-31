@@ -8,6 +8,7 @@ typedef struct number{
 	string value;
 	int decimal_count;
 	int digits_count;
+	int pos;
 }number;
 
 int exponentiation(int,int);
